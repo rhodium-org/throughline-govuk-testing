@@ -1,0 +1,12 @@
+uid: UR-0001
+type: user_requirement
+status: approved
+title: 'Quality assurance: testing your service regularly'
+text: Make quality everyone's responsibility and test the service regularly, in realistic conditions,
+  using a range of automated and manual test types.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: 'GOV.UK Service Manual — Quality assurance: testing your service regularly'
+  url: https://www.gov.uk/service-manual/technology/quality-assurance-testing-your-service-regularly

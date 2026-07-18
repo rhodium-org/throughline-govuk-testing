@@ -1,0 +1,11 @@
+uid: SR-0030
+type: system_requirement
+status: approved
+title: Monitor performance trends over time
+text: Review performance results regularly to spot usage patterns and forecast future infrastructure needs
+  and costs.
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: GOV.UK Service Manual — Test your service's performance

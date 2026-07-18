@@ -1,0 +1,11 @@
+uid: SR-0031
+type: system_requirement
+status: approved
+title: Test the required assistive-technology combinations
+text: Before public beta, test the service against the required screen readers, magnifiers and speech-recognition
+  tools across the specified browsers.
+links:
+- target: UR-0005
+  type: implements
+attrs:
+  source_ref: GOV.UK Service Manual — Testing with assistive technologies

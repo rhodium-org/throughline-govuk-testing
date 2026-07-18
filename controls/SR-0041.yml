@@ -1,0 +1,11 @@
+uid: SR-0041
+type: system_requirement
+status: approved
+title: Prototype and design in the browser early
+text: Prototype and design in the browser as early as possible to reveal performance and design issues
+  sooner.
+links:
+- target: UR-0006
+  type: implements
+attrs:
+  source_ref: GOV.UK Service Manual — How to test frontend performance

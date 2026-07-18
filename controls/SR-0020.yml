@@ -1,0 +1,11 @@
+uid: SR-0020
+type: system_requirement
+status: approved
+title: Handle test reports securely
+text: Mark reports OFFICIAL-SENSITIVE and include both technical detail for developers and a non-technical
+  summary for senior stakeholders.
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: GOV.UK Service Manual — Vulnerability and penetration testing

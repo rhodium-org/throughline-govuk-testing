@@ -1,0 +1,11 @@
+uid: SR-0028
+type: system_requirement
+status: approved
+title: Have the service owner assess acceptable risk
+text: Let the service owner decide whether the observed failure behaviour is an acceptable risk for the
+  live service.
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: GOV.UK Service Manual — Test your service's performance

@@ -1,0 +1,10 @@
+uid: SR-0039
+type: system_requirement
+status: approved
+title: Include assistive-technology users in research
+text: Involve people who use assistive technologies in user research to understand real-world usability.
+links:
+- target: UR-0005
+  type: implements
+attrs:
+  source_ref: GOV.UK Service Manual — Testing with assistive technologies

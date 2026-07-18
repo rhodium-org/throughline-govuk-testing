@@ -1,0 +1,12 @@
+uid: UR-0005
+type: user_requirement
+status: approved
+title: Testing with assistive technologies
+text: Test the service continuously with the required assistive technologies and browser combinations
+  so it works for disabled users.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: GOV.UK Service Manual — Testing with assistive technologies
+  url: https://www.gov.uk/service-manual/technology/testing-with-assistive-technologies

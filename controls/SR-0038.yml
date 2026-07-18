@@ -1,0 +1,10 @@
+uid: SR-0038
+type: system_requirement
+status: approved
+title: Prioritise barriers by severity
+text: Fix complete barriers to access before problems users can work around.
+links:
+- target: UR-0005
+  type: implements
+attrs:
+  source_ref: GOV.UK Service Manual — Testing with assistive technologies

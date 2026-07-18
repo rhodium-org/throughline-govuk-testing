@@ -1,0 +1,11 @@
+uid: SR-0006
+type: system_requirement
+status: approved
+title: Bring in external expertise where needed
+text: Use specialist contractors for areas such as penetration testing and vulnerability assessment when
+  the team lacks the skills.
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: 'GOV.UK Service Manual — Quality assurance: testing your service regularly'

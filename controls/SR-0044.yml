@@ -1,0 +1,11 @@
+uid: SR-0044
+type: system_requirement
+status: approved
+title: Benchmark with standard tools
+text: Measure baseline metrics with established tools such as Lighthouse, Chrome DevTools, WebPageTest
+  or Sitespeed.io.
+links:
+- target: UR-0006
+  type: implements
+attrs:
+  source_ref: GOV.UK Service Manual — How to test frontend performance

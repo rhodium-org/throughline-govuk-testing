@@ -1,0 +1,10 @@
+uid: SR-0047
+type: system_requirement
+status: approved
+title: Integrate performance checks into releases
+text: Build frontend performance checks into the release workflow so regressions are caught as they happen.
+links:
+- target: UR-0006
+  type: implements
+attrs:
+  source_ref: GOV.UK Service Manual — How to test frontend performance

@@ -1,0 +1,10 @@
+uid: SR-0010
+type: system_requirement
+status: approved
+title: Time-box exploratory sessions
+text: Apply timeboxing so testers focus on specific goals within a fixed period.
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: GOV.UK Service Manual — Exploratory testing

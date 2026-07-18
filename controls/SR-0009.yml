@@ -1,0 +1,10 @@
+uid: SR-0009
+type: system_requirement
+status: approved
+title: Set a clear goal for each session
+text: Give every exploratory session a stated goal so testing stays focused rather than drifting.
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: GOV.UK Service Manual — Exploratory testing

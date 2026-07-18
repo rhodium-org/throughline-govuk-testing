@@ -1,0 +1,11 @@
+uid: INT-0001
+type: intent
+status: approved
+title: A government service is tested continuously across quality, security, performance and accessibility
+text: The GOV.UK Service Manual 'Testing your service' guidance exists so that a public digital service
+  is tested continuously and holistically — quality assurance, exploratory, security, performance and
+  accessibility testing — throughout its lifecycle, so it works well and safely for all users before and
+  after it goes live.
+normative: false
+attrs:
+  source_ref: GOV.UK Service Manual — Testing your service

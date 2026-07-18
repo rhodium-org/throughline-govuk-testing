@@ -1,0 +1,11 @@
+uid: SR-0001
+type: system_requirement
+status: approved
+title: Make quality a whole-team responsibility
+text: Everyone on the team should know how to set quality goals and measure the service against them,
+  rather than leaving quality to a separate testing phase or team.
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: 'GOV.UK Service Manual — Quality assurance: testing your service regularly'

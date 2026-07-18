@@ -1,0 +1,10 @@
+uid: SR-0037
+type: system_requirement
+status: approved
+title: Document accessibility issues with environment detail
+text: Record each issue with the affected users, browser, operating system and technology versions.
+links:
+- target: UR-0005
+  type: implements
+attrs:
+  source_ref: GOV.UK Service Manual — Testing with assistive technologies

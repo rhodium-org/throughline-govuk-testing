@@ -1,0 +1,10 @@
+uid: SR-0027
+type: system_requirement
+status: approved
+title: Record the failure point and degradation
+text: Document the load level at which failure occurred and how the system degraded.
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: GOV.UK Service Manual — Test your service's performance

@@ -1,0 +1,11 @@
+uid: SR-0011
+type: system_requirement
+status: approved
+title: Use test charters
+text: Write mission-focused charters covering scope, goals, participants, timing, environment and data,
+  without prescribing exactly which defects to find.
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: GOV.UK Service Manual — Exploratory testing

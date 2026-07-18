@@ -1,0 +1,12 @@
+uid: UR-0003
+type: user_requirement
+status: approved
+title: Vulnerability and penetration testing
+text: Regularly assess the whole system's security using appropriately certified testers and automated
+  tooling, with proper consent, agreements and handling of reports.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: GOV.UK Service Manual — Vulnerability and penetration testing
+  url: https://www.gov.uk/service-manual/technology/vulnerability-and-penetration-testing

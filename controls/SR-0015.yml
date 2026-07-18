@@ -1,0 +1,10 @@
+uid: SR-0015
+type: system_requirement
+status: approved
+title: Assess security regularly, especially on major changes
+text: Regularly assess the service's security, and in particular whenever the codebase changes significantly.
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: GOV.UK Service Manual — Vulnerability and penetration testing

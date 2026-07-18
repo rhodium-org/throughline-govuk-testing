@@ -1,0 +1,10 @@
+uid: SR-0021
+type: system_requirement
+status: approved
+title: Build internal security capability
+text: Grow in-house security skills, which is more cost-effective than relying solely on external testing.
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: GOV.UK Service Manual — Vulnerability and penetration testing

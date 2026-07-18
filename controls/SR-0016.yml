@@ -1,0 +1,11 @@
+uid: SR-0016
+type: system_requirement
+status: approved
+title: Scope testing to the whole system
+text: Test the whole system — including physical security and points where offline processes meet online
+  ones — not just the software.
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: GOV.UK Service Manual — Vulnerability and penetration testing

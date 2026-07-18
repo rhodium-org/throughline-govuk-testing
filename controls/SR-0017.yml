@@ -1,0 +1,10 @@
+uid: SR-0017
+type: system_requirement
+status: approved
+title: Get consent from third-party suppliers
+text: Obtain explicit consent from any third-party supplier before testing software you rely on from them.
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: GOV.UK Service Manual — Vulnerability and penetration testing

@@ -1,0 +1,11 @@
+uid: SR-0002
+type: system_requirement
+status: approved
+title: Test in realistic conditions
+text: Test the service under both normal and unusual conditions so you understand how it really behaves,
+  not just on the happy path.
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: 'GOV.UK Service Manual — Quality assurance: testing your service regularly'

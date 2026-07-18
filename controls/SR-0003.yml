@@ -1,0 +1,10 @@
+uid: SR-0003
+type: system_requirement
+status: approved
+title: Automate tests on every change
+text: Run automated tests every time the code changes so defects are found quickly and cheaply.
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: 'GOV.UK Service Manual — Quality assurance: testing your service regularly'

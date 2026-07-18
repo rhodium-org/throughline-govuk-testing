@@ -1,0 +1,52 @@
+[project]
+name = "GOV.UK Service Manual — Testing your service (throughline source)"
+format_version = 2
+
+# A throughline *source*: a standalone graph a consuming project composes via
+# throughline-compose, importing it under a namespace (e.g. `govuktesting`) and referencing
+# guidance as `govuktesting:SR-0001`. The UIDs here are this source's own and immutable; the
+# Service Manual page this item comes from lives in `attrs.source_ref`, never in the UID.
+#
+# LICENCE. This source reproduces and derives from the GOV.UK Service Manual "Testing your
+# service" guidance, which is © Crown copyright and published under the Open Government
+# Licence v3.0 (OGL). Reuse is permitted with attribution; see NOTICE. Item text is a faithful
+# restatement of the guidance with the source page cited in attrs.source_ref.
+
+[grounding]
+root_types = ["intent"]
+delivery_roots = ["intent"]
+ground_link_types = ["derives_from", "implements"]
+ai_origins = ["ai", "hybrid"]
+
+# The Service Manual "Testing your service" pages are user_requirements; each guidance point
+# is a system_requirement implementing its page.
+[types.user_requirement]
+attrs.source_ref = { required = true }
+
+[types.system_requirement]
+attrs.source_ref = { required = true }
+
+[links]
+types = ["derives_from", "implements", "relates"]
+
+[link_rules]
+derives_from = { from = ["user_requirement"], to = ["intent"] }
+implements   = { from = ["system_requirement"], to = ["user_requirement"] }
+
+[status]
+values = ["proposed", "draft", "deferred", "approved", "ratified", "implemented",
+          "verified", "suspect", "rejected", "deleted"]
+
+[transitions]
+proposed    = ["draft", "approved", "ratified", "deferred", "rejected", "deleted"]
+draft       = ["approved", "deferred", "rejected", "deleted"]
+deferred    = ["draft", "approved", "rejected", "deleted"]
+approved    = ["ratified", "implemented", "deferred", "suspect", "rejected", "deleted"]
+ratified    = ["implemented", "suspect", "rejected", "deleted"]
+implemented = ["verified", "suspect", "rejected", "deleted"]
+verified    = ["implemented", "suspect", "deleted"]
+suspect     = ["approved", "ratified", "implemented", "verified", "rejected", "deleted"]
+rejected    = ["draft", "deleted"]
+
+[docs]
+paths = ["docs/*.md", "README.md"]

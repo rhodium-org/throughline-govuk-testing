@@ -1,0 +1,12 @@
+uid: UR-0004
+type: user_requirement
+status: approved
+title: Test your service's performance
+text: Plan for expected load, then load- and stress-test the service to find its limits and make an informed
+  decision about acceptable risk before going live.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: GOV.UK Service Manual — Test your service's performance
+  url: https://www.gov.uk/service-manual/technology/test-your-services-performance

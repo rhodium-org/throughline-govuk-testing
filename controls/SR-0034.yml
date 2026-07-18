@@ -1,0 +1,11 @@
+uid: SR-0034
+type: system_requirement
+status: approved
+title: Verify screen-reader access to every element
+text: Check that every element, heading, link, landmark, ARIA attribute and form field is reachable and
+  usable via a screen reader.
+links:
+- target: UR-0005
+  type: implements
+attrs:
+  source_ref: GOV.UK Service Manual — Testing with assistive technologies

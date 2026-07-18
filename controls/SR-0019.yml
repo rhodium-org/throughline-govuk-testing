@@ -1,0 +1,11 @@
+uid: SR-0019
+type: system_requirement
+status: approved
+title: Agree scope, timing and liability in contracts
+text: Agree in writing when testing happens, what it covers, and that testers will stop if they risk disrupting
+  the service.
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: GOV.UK Service Manual — Vulnerability and penetration testing

@@ -1,0 +1,11 @@
+uid: SR-0032
+type: system_requirement
+status: approved
+title: Test continuously during development
+text: Test with assistive technologies often during development, because frequent testing catches accessibility
+  problems sooner.
+links:
+- target: UR-0005
+  type: implements
+attrs:
+  source_ref: GOV.UK Service Manual — Testing with assistive technologies

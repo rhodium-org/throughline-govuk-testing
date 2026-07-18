@@ -1,0 +1,10 @@
+uid: SR-0036
+type: system_requirement
+status: approved
+title: Test speech recognition with natural speech
+text: Use natural speech to navigate, activate controls and enter text, with good-quality audio equipment.
+links:
+- target: UR-0005
+  type: implements
+attrs:
+  source_ref: GOV.UK Service Manual — Testing with assistive technologies

@@ -1,0 +1,10 @@
+uid: SR-0007
+type: system_requirement
+status: approved
+title: Test accessibility from beta onward
+text: From the beta phase, verify the service meets government accessibility requirements for all users.
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: 'GOV.UK Service Manual — Quality assurance: testing your service regularly'

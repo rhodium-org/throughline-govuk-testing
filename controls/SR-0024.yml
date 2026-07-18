@@ -1,0 +1,11 @@
+uid: SR-0024
+type: system_requirement
+status: approved
+title: Run load tests against pre-production
+text: Load-test in a production-like environment to see how much traffic the service can handle while
+  still functioning.
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: GOV.UK Service Manual — Test your service's performance

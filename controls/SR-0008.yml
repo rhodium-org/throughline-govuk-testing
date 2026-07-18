@@ -1,0 +1,10 @@
+uid: SR-0008
+type: system_requirement
+status: approved
+title: Get fast feedback to catch issues early
+text: Use fast automated feedback so problems are fixed before they become expensive.
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: 'GOV.UK Service Manual — Quality assurance: testing your service regularly'

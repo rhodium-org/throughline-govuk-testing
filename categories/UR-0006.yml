@@ -1,0 +1,12 @@
+uid: UR-0006
+type: user_requirement
+status: approved
+title: How to test frontend performance
+text: 'Treat frontend performance as a first-class concern: set a budget, benchmark, test across devices
+  and integrate performance checks into releases.'
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: GOV.UK Service Manual — How to test frontend performance
+  url: https://www.gov.uk/service-manual/technology/how-to-test-frontend-performance

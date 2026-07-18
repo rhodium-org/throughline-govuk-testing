@@ -1,0 +1,11 @@
+uid: SR-0043
+type: system_requirement
+status: approved
+title: Set and enforce a performance budget
+text: Set measurable limits for load time, requests or page size, and hold the service to them throughout
+  development.
+links:
+- target: UR-0006
+  type: implements
+attrs:
+  source_ref: GOV.UK Service Manual — How to test frontend performance

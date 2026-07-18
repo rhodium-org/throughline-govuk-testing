@@ -1,0 +1,19 @@
+throughline-govuk-testing
+Copyright 2026 Time Back Solutions Limited
+
+This product includes work developed by Time Back Solutions Limited.
+
+Licensed under the Apache License, Version 2.0. See the LICENSE file for the
+full terms.
+
+This repository is a throughline *source*: a requirements graph, not a program. It
+expresses the "Testing your service" guidance of the GOV.UK Service Manual as a grounded
+IDD graph so consuming projects can compose it with throughline-compose.
+
+The GOV.UK Service Manual content reproduced and derived here is © Crown copyright and is
+licensed under the Open Government Licence v3.0
+(https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). It is used
+here under that licence with attribution to the source. The authoritative pages are at
+https://www.gov.uk/service-manual/technology (see each item's attrs.source_ref for the
+specific page). This repository is not endorsed by or affiliated with the Government
+Digital Service or the Crown.

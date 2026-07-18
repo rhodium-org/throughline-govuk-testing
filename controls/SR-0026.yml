@@ -1,0 +1,10 @@
+uid: SR-0026
+type: system_requirement
+status: approved
+title: Increase load gradually until failure
+text: Raise load progressively until the service breaks so you can find its breaking point.
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: GOV.UK Service Manual — Test your service's performance

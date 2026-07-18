@@ -1,0 +1,11 @@
+uid: SR-0029
+type: system_requirement
+status: approved
+title: Optimise under stress
+text: Apply caching, code improvements or feature toggles to keep the service functioning under extreme
+  load.
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: GOV.UK Service Manual — Test your service's performance
