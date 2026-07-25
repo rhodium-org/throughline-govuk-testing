@@ -8,7 +8,7 @@ under a namespace and references a guidance point by UID:
 # throughline.toml in a consuming project
 [[sources]]
 namespace = "govuktesting"
-url = "https://github.com/timebacksolutions/throughline-govuk-testing"
+url = "https://github.com/rhodium-org/throughline-govuk-testing"
 ref = "v2026-07"
 ```
 
