@@ -20,8 +20,10 @@ links:
 
 It lets a team building a public service ground its test approach in the recognised
 government guidance: "our approach *satisfies* `govuktesting:SR-0031` (test the required
-assistive-technology combinations)", and so on — checked structurally by
-`tl-compose check --strict`.
+assistive-technology combinations)", and so on — checked structurally when
+`tl check --strict` in the consuming project composes this source. That needs `tl` from
+[throughline](https://pypi.org/project/throughline/) 3.11.0 or later; an older `tl` reports the
+reference as `namespace-unresolved`.
 
 ## Shape
 

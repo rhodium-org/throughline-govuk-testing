@@ -2,8 +2,8 @@
 name = "GOV.UK Service Manual — Testing your service (throughline source)"
 format_version = 3
 
-# A throughline *source*: a standalone graph a consuming project composes via
-# throughline-compose, importing it under a namespace (e.g. `govuktesting`) and referencing
+# A throughline *source*: a standalone graph a consuming project composes with `tl`,
+# importing it under a namespace (e.g. `govuktesting`) and referencing
 # guidance as `govuktesting:SR-0001`. The UIDs here are this source's own and immutable; the
 # Service Manual page this item comes from lives in `attrs.source_ref`, never in the UID.
 #

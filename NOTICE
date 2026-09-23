@@ -8,7 +8,7 @@ full terms.
 
 This repository is a throughline *source*: a requirements graph, not a program. It
 expresses the "Testing your service" guidance of the GOV.UK Service Manual as a grounded
-IDD graph so consuming projects can compose it with throughline-compose.
+IDD graph so consuming projects can compose it with throughline.
 
 The GOV.UK Service Manual content reproduced and derived here is © Crown copyright and is
 licensed under the Open Government Licence v3.0
