@@ -1,9 +1,10 @@
 uid: SR-0023
 type: system_requirement
-status: approved
+status: proposed
 title: Do capacity planning first
-text: Estimate the traffic you expect under normal conditions, and anticipate growth, before designing
-  performance tests.
+text: Estimate the traffic you expect under normal conditions, and anticipate growth,
+  before designing performance tests.
+normative: true
 links:
 - target: UR-0004
   type: implements

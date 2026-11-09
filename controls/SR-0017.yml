@@ -1,8 +1,10 @@
 uid: SR-0017
 type: system_requirement
-status: approved
+status: proposed
 title: Get consent from third-party suppliers
-text: Obtain explicit consent from any third-party supplier before testing software you rely on from them.
+text: Obtain explicit consent from any third-party supplier before testing software
+  you rely on from them.
+normative: true
 links:
 - target: UR-0003
   type: implements

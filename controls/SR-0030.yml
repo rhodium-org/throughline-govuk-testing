@@ -1,9 +1,10 @@
 uid: SR-0030
 type: system_requirement
-status: approved
+status: proposed
 title: Monitor performance trends over time
-text: Review performance results regularly to spot usage patterns and forecast future infrastructure needs
-  and costs.
+text: Review performance results regularly to spot usage patterns and forecast future
+  infrastructure needs and costs.
+normative: true
 links:
 - target: UR-0004
   type: implements

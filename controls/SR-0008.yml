@@ -1,8 +1,9 @@
 uid: SR-0008
 type: system_requirement
-status: approved
+status: proposed
 title: Get fast feedback to catch issues early
 text: Use fast automated feedback so problems are fixed before they become expensive.
+normative: true
 links:
 - target: UR-0001
   type: implements

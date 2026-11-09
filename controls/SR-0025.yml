@@ -1,8 +1,10 @@
 uid: SR-0025
 type: system_requirement
-status: approved
+status: proposed
 title: Test beyond expected limits
-text: Simulate traffic well above normal expectations, including spikes resembling denial-of-service conditions.
+text: Simulate traffic well above normal expectations, including spikes resembling
+  denial-of-service conditions.
+normative: true
 links:
 - target: UR-0004
   type: implements

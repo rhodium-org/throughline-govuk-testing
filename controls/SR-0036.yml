@@ -1,8 +1,10 @@
 uid: SR-0036
 type: system_requirement
-status: approved
+status: proposed
 title: Test speech recognition with natural speech
-text: Use natural speech to navigate, activate controls and enter text, with good-quality audio equipment.
+text: Use natural speech to navigate, activate controls and enter text, with good-quality
+  audio equipment.
+normative: true
 links:
 - target: UR-0005
   type: implements

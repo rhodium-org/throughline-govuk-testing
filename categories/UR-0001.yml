@@ -1,9 +1,10 @@
 uid: UR-0001
 type: user_requirement
-status: approved
+status: proposed
 title: 'Quality assurance: testing your service regularly'
-text: Make quality everyone's responsibility and test the service regularly, in realistic conditions,
-  using a range of automated and manual test types.
+text: Make quality everyone's responsibility and test the service regularly, in realistic
+  conditions, using a range of automated and manual test types.
+normative: true
 links:
 - target: INT-0001
   type: derives_from

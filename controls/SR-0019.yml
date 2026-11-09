@@ -1,9 +1,10 @@
 uid: SR-0019
 type: system_requirement
-status: approved
+status: proposed
 title: Agree scope, timing and liability in contracts
-text: Agree in writing when testing happens, what it covers, and that testers will stop if they risk disrupting
-  the service.
+text: Agree in writing when testing happens, what it covers, and that testers will
+  stop if they risk disrupting the service.
+normative: true
 links:
 - target: UR-0003
   type: implements

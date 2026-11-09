@@ -1,9 +1,10 @@
 uid: SR-0041
 type: system_requirement
-status: approved
+status: proposed
 title: Prototype and design in the browser early
-text: Prototype and design in the browser as early as possible to reveal performance and design issues
-  sooner.
+text: Prototype and design in the browser as early as possible to reveal performance
+  and design issues sooner.
+normative: true
 links:
 - target: UR-0006
   type: implements

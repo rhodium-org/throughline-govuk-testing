@@ -1,9 +1,10 @@
 uid: UR-0002
 type: user_requirement
-status: approved
+status: proposed
 title: Exploratory testing
-text: Use unscripted, goal-directed exploration to find defects that scripted tests miss, capturing evidence
-  and feeding findings back into automation.
+text: Use unscripted, goal-directed exploration to find defects that scripted tests
+  miss, capturing evidence and feeding findings back into automation.
+normative: true
 links:
 - target: INT-0001
   type: derives_from

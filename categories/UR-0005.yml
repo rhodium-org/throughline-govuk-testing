@@ -1,9 +1,10 @@
 uid: UR-0005
 type: user_requirement
-status: approved
+status: proposed
 title: Testing with assistive technologies
-text: Test the service continuously with the required assistive technologies and browser combinations
-  so it works for disabled users.
+text: Test the service continuously with the required assistive technologies and
+  browser combinations so it works for disabled users.
+normative: true
 links:
 - target: INT-0001
   type: derives_from

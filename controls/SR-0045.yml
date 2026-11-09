@@ -1,8 +1,9 @@
 uid: SR-0045
 type: system_requirement
-status: approved
+status: proposed
 title: Optimise identified bottlenecks
 text: Improve the underperforming features that testing identifies.
+normative: true
 links:
 - target: UR-0006
   type: implements

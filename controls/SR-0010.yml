@@ -1,8 +1,9 @@
 uid: SR-0010
 type: system_requirement
-status: approved
+status: proposed
 title: Time-box exploratory sessions
 text: Apply timeboxing so testers focus on specific goals within a fixed period.
+normative: true
 links:
 - target: UR-0002
   type: implements

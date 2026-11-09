@@ -1,8 +1,10 @@
 uid: SR-0009
 type: system_requirement
-status: approved
+status: proposed
 title: Set a clear goal for each session
-text: Give every exploratory session a stated goal so testing stays focused rather than drifting.
+text: Give every exploratory session a stated goal so testing stays focused rather
+  than drifting.
+normative: true
 links:
 - target: UR-0002
   type: implements

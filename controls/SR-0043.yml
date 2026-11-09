@@ -1,9 +1,10 @@
 uid: SR-0043
 type: system_requirement
-status: approved
+status: proposed
 title: Set and enforce a performance budget
-text: Set measurable limits for load time, requests or page size, and hold the service to them throughout
-  development.
+text: Set measurable limits for load time, requests or page size, and hold the service
+  to them throughout development.
+normative: true
 links:
 - target: UR-0006
   type: implements

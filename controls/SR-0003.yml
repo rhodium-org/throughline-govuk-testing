@@ -1,8 +1,10 @@
 uid: SR-0003
 type: system_requirement
-status: approved
+status: proposed
 title: Automate tests on every change
-text: Run automated tests every time the code changes so defects are found quickly and cheaply.
+text: Run automated tests every time the code changes so defects are found quickly
+  and cheaply.
+normative: true
 links:
 - target: UR-0001
   type: implements

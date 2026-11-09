@@ -1,9 +1,10 @@
 uid: SR-0028
 type: system_requirement
-status: approved
+status: proposed
 title: Have the service owner assess acceptable risk
-text: Let the service owner decide whether the observed failure behaviour is an acceptable risk for the
-  live service.
+text: Let the service owner decide whether the observed failure behaviour is an acceptable
+  risk for the live service.
+normative: true
 links:
 - target: UR-0004
   type: implements

@@ -1,9 +1,10 @@
 uid: SR-0032
 type: system_requirement
-status: approved
+status: proposed
 title: Test continuously during development
-text: Test with assistive technologies often during development, because frequent testing catches accessibility
-  problems sooner.
+text: Test with assistive technologies often during development, because frequent
+  testing catches accessibility problems sooner.
+normative: true
 links:
 - target: UR-0005
   type: implements

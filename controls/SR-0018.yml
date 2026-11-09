@@ -1,8 +1,10 @@
 uid: SR-0018
 type: system_requirement
-status: approved
+status: proposed
 title: Use appropriately certified testers
-text: Use a CHECK-certified team (or equivalent) before moving to public beta or handling real user data.
+text: Use a CHECK-certified team (or equivalent) before moving to public beta or
+  handling real user data.
+normative: true
 links:
 - target: UR-0003
   type: implements

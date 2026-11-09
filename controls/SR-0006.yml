@@ -1,9 +1,10 @@
 uid: SR-0006
 type: system_requirement
-status: approved
+status: proposed
 title: Bring in external expertise where needed
-text: Use specialist contractors for areas such as penetration testing and vulnerability assessment when
-  the team lacks the skills.
+text: Use specialist contractors for areas such as penetration testing and vulnerability
+  assessment when the team lacks the skills.
+normative: true
 links:
 - target: UR-0001
   type: implements

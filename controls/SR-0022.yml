@@ -1,8 +1,10 @@
 uid: SR-0022
 type: system_requirement
-status: approved
+status: proposed
 title: Automate vulnerability detection
-text: Use automated tooling — static analysis and input fuzzing — to catch basic vulnerabilities continuously.
+text: Use automated tooling — static analysis and input fuzzing — to catch basic
+  vulnerabilities continuously.
+normative: true
 links:
 - target: UR-0003
   type: implements

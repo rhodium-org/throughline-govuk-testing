@@ -1,8 +1,10 @@
 uid: SR-0037
 type: system_requirement
-status: approved
+status: proposed
 title: Document accessibility issues with environment detail
-text: Record each issue with the affected users, browser, operating system and technology versions.
+text: Record each issue with the affected users, browser, operating system and technology
+  versions.
+normative: true
 links:
 - target: UR-0005
   type: implements

@@ -1,8 +1,9 @@
 uid: SR-0027
 type: system_requirement
-status: approved
+status: proposed
 title: Record the failure point and degradation
 text: Document the load level at which failure occurred and how the system degraded.
+normative: true
 links:
 - target: UR-0004
   type: implements

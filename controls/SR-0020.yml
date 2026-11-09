@@ -1,9 +1,10 @@
 uid: SR-0020
 type: system_requirement
-status: approved
+status: proposed
 title: Handle test reports securely
-text: Mark reports OFFICIAL-SENSITIVE and include both technical detail for developers and a non-technical
-  summary for senior stakeholders.
+text: Mark reports OFFICIAL-SENSITIVE and include both technical detail for developers
+  and a non-technical summary for senior stakeholders.
+normative: true
 links:
 - target: UR-0003
   type: implements

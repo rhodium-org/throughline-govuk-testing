@@ -1,9 +1,10 @@
 uid: SR-0016
 type: system_requirement
-status: approved
+status: proposed
 title: Scope testing to the whole system
-text: Test the whole system — including physical security and points where offline processes meet online
-  ones — not just the software.
+text: Test the whole system — including physical security and points where offline
+  processes meet online ones — not just the software.
+normative: true
 links:
 - target: UR-0003
   type: implements

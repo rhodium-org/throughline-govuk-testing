@@ -1,8 +1,9 @@
 uid: SR-0038
 type: system_requirement
-status: approved
+status: proposed
 title: Prioritise barriers by severity
 text: Fix complete barriers to access before problems users can work around.
+normative: true
 links:
 - target: UR-0005
   type: implements

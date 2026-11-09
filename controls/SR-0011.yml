@@ -1,9 +1,10 @@
 uid: SR-0011
 type: system_requirement
-status: approved
+status: proposed
 title: Use test charters
-text: Write mission-focused charters covering scope, goals, participants, timing, environment and data,
-  without prescribing exactly which defects to find.
+text: Write mission-focused charters covering scope, goals, participants, timing,
+  environment and data, without prescribing exactly which defects to find.
+normative: true
 links:
 - target: UR-0002
   type: implements

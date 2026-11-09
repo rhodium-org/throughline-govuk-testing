@@ -1,9 +1,10 @@
 uid: SR-0024
 type: system_requirement
-status: approved
+status: proposed
 title: Run load tests against pre-production
-text: Load-test in a production-like environment to see how much traffic the service can handle while
-  still functioning.
+text: Load-test in a production-like environment to see how much traffic the service
+  can handle while still functioning.
+normative: true
 links:
 - target: UR-0004
   type: implements

@@ -1,9 +1,10 @@
 uid: SR-0031
 type: system_requirement
-status: approved
+status: proposed
 title: Test the required assistive-technology combinations
-text: Before public beta, test the service against the required screen readers, magnifiers and speech-recognition
-  tools across the specified browsers.
+text: Before public beta, test the service against the required screen readers, magnifiers
+  and speech-recognition tools across the specified browsers.
+normative: true
 links:
 - target: UR-0005
   type: implements

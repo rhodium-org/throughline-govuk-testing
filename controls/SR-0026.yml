@@ -1,8 +1,10 @@
 uid: SR-0026
 type: system_requirement
-status: approved
+status: proposed
 title: Increase load gradually until failure
-text: Raise load progressively until the service breaks so you can find its breaking point.
+text: Raise load progressively until the service breaks so you can find its breaking
+  point.
+normative: true
 links:
 - target: UR-0004
   type: implements

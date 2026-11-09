@@ -1,8 +1,10 @@
 uid: SR-0047
 type: system_requirement
-status: approved
+status: proposed
 title: Integrate performance checks into releases
-text: Build frontend performance checks into the release workflow so regressions are caught as they happen.
+text: Build frontend performance checks into the release workflow so regressions
+  are caught as they happen.
+normative: true
 links:
 - target: UR-0006
   type: implements

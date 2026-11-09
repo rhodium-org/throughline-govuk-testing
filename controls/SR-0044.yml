@@ -1,9 +1,10 @@
 uid: SR-0044
 type: system_requirement
-status: approved
+status: proposed
 title: Benchmark with standard tools
-text: Measure baseline metrics with established tools such as Lighthouse, Chrome DevTools, WebPageTest
-  or Sitespeed.io.
+text: Measure baseline metrics with established tools such as Lighthouse, Chrome
+  DevTools, WebPageTest or Sitespeed.io.
+normative: true
 links:
 - target: UR-0006
   type: implements

@@ -1,9 +1,10 @@
 uid: SR-0001
 type: system_requirement
-status: approved
+status: proposed
 title: Make quality a whole-team responsibility
-text: Everyone on the team should know how to set quality goals and measure the service against them,
-  rather than leaving quality to a separate testing phase or team.
+text: Everyone on the team should know how to set quality goals and measure the service
+  against them, rather than leaving quality to a separate testing phase or team.
+normative: true
 links:
 - target: UR-0001
   type: implements

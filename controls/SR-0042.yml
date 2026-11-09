@@ -1,8 +1,10 @@
 uid: SR-0042
 type: system_requirement
-status: approved
+status: proposed
 title: Test across a wide range of devices
-text: Test on a broad range of devices to find problems that high-end laptops would hide.
+text: Test on a broad range of devices to find problems that high-end laptops would
+  hide.
+normative: true
 links:
 - target: UR-0006
   type: implements
